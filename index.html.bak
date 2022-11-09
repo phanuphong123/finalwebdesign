@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <title>Folio and experiences of musician and vocalist</title>
+    <meta content="My works and experiences as a musician and vocalist. All my lifestyle stories are recorded in this folio."
+
+      name="description">
+    <meta content="Musician, Vocalist, Experience,  Folio" name="keywords">
+    <!-- Favicons -->
+    <link href="assets/img/favicon.png" rel="icon">
+    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,700i%7CPlayfair+Display:400,400i,500,500i,600,600i,700,700i,900,900i"
+
+      rel="stylesheet">
+    <!-- Vendor CSS Files -->
+    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+    <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+    <!-- Template Main CSS File -->
+    <link href="assets/css/style.css" rel="stylesheet">
+    <!-- =======================================================
+  * Template Name: Folio - v4.9.0  * Template URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/  * Author: BootstrapMade.com  * License: https://bootstrapmade.com/license/  ======================================================== -->
+    <script type="application/x-javascript"></script>
+    <meta name="author" content="Art Phanuphong">
+  </head>
+  <body>
+    <!-- ======= Header ======= -->
+    <header id="header" class="fixed-top ">
+      <div class="container d-flex align-items-center justify-content-between">
+        <a href="index.html" class="logo"><img src="assets/img/logo.png" alt=""
+
+            class="img-fluid"></a>
+        <!-- Uncomment below if you prefer to use an text logo -->
+        <!-- <h1 class="logo"><a href="index.html">Folio</a></h1> -->
+        <nav id="navbar" class="navbar">
+          <ul>
+            <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+            <li><a class="nav-link scrollto" href="#about">About</a></li>
+            <li><a class="nav-link  scrollto" href="#portfolio">Portfolio</a></li>
+            <li><a class="nav-link  scrollto" href="#journal">Blog</a></li>
+            <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+          </ul>
+          <i class="bi bi-list mobile-nav-toggle"></i> </nav>
+        <!-- .navbar --> </div>
+    </header>
+    <!-- End Header -->
+    <!-- ======= Hero Section ======= -->
+    <div id="hero" class="home">
+      <div class="container">
+        <div class="hero-content">
+          <h1>I'm <span class="typed" data-typed-items="Art Phanuphong, Vocalist, Musician, Freelancer"></span></h1>
+          <p>Vocalist, Musician, Freelancer</p>
+          <ul class="list-unstyled list-social">
+            <li><a href="https://www.facebook.com/profile.php?id=100011643456912"
+
+                target="_blank"><i class="bi bi-facebook"></i></a><br>
+            </li>
+            <li><a href="https://www.instagram.com/_artttttttttttttttttttt/" target="_blank"><i
+
+                  class="bi bi-instagram"></i></a><br>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <!-- End Hero -->
+    <main id="main">
+      <!-- ======= About Section ======= -->
+      <div id="about" class="paddsection">
+        <div class="container">
+          <div class="row justify-content-between">
+            <div class="col-lg-4 ">
+              <div class="div-img-bg">
+                <div class="about-img"><img src="assets/img/cont.jpg" alt="me" title="red"></div>
+              </div>
+            </div>
+            <div class="col-lg-7">
+              <div class="about-descr">
+                <p class="p-heading">Im a Musician who loves tattoo, jazz music
+                  &amp; rock music. I also enjoy playing guitar, listening to
+                  music, &amp; traveling. </p>
+                <p class="separator">Corrado Feroci once remarked, "Tomorrow is
+                  too late." I use it as a prompt and source of inspiration to
+                  get out of bed and take on challenges I never thought I would.
+                  As a result, I'll try my hardest to treat every task I do as
+                  though it were my last.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- End About Section -->
+      <!-- ======= Services Section ======= -->
+      <div id="services">
+        <div class="container">
+          <div class="services-slider swiper" data-aos="fade-up" data-aos-delay="100">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                <div class="services-block"> <i class="bi bi-briefcase"></i> <span>Education</span>
+                  <p class="separator">Faculty of Arts at Silpakorn University </p>
+                </div>
+              </div>
+              <!-- End testimonial item -->
+              <div class="swiper-slide">
+                <div class="services-block"> <i class="bi bi-card-checklist"></i>
+                  <span>Work</span>
+                  <p class="separator">Freelance Musician </p>
+                </div>
+              </div>
+              <!-- End testimonial item -->
+              <div class="swiper-slide">
+                <div class="services-block"> <i class="bi bi-bar-chart"></i> <span>Experience</span>
+                  <p class="separator">7 Years for Vocalist </p>
+                </div>
+              </div>
+              <!-- End testimonial item -->
+              <div class="swiper-slide">
+                <div class="services-block"> <i class="bi bi-binoculars"></i> <span>Lifestyle
+                    </span> <p class="separator">You can see my lifestyle on
+                    instagram and facebook </p>
+                </div>
+              </div>
+              <!-- End testimonial item --> </div>
+            <div class="swiper-pagination"></div>
+          </div>
+        </div>
+      </div>
+      <!-- End Services Section -->
+      <!-- ======= Portfolio Section ======= -->
+      <div id="portfolio" class="paddsection">
+        <div class="container">
+          <div class="section-title text-center">
+            <h2>My Portfolio</h2>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12 d-flex justify-content-center">
+              <ul id="portfolio-flters">
+                <li data-filter="*" class="filter-active">All</li>
+                <li data-filter=".filter-personal">Personal Information</li>
+                <li data-filter=".filter-experience">Experience</li>
+                <li data-filter=".filter-certificate">Certificate</li>
+              </ul>
+            </div>
+          </div>
+          <div class="row portfolio-container">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-personal"> <img
+
+                src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Personal Information</h4>
+                <p>It would be nice if we got to know each other first.</p>
+                <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery"
+
+                  class="portfolio-lightbox preview-link" title=""><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details.html" class="details-link" title="More Details"><i
+
+                    class="bx bx-link"></i></a> </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-experience"> <img
+
+                src="assets/img/portfolio/ex1.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>My Experience</h4>
+                <p>To Be Number 1</p>
+                <a href="assets/img/portfolio/ex1.jpg" data-gallery="portfolioGallery"
+
+                  class="portfolio-lightbox preview-link" title=""><i class="bx bx-plus"></i></a>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-experience"> <img
+
+                src="assets/img/portfolio/ex2.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>My Experience</h4>
+                <p>My First Concert in 2017</p>
+                <a href="assets/img/portfolio/ex2.jpg" data-gallery="portfolioGallery"
+
+                  class="portfolio-lightbox preview-link" title=""><i class="bx bx-plus"></i></a>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-experience"> <img
+
+                src="assets/img/portfolio/ex3.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>My Experience</h4>
+                <p>I've served on the student council and as its president.</p>
+                <a href="assets/img/portfolio/ex3.jpg" data-gallery="portfolioGallery"
+
+                  class="portfolio-lightbox preview-link" title=""><i class="bx bx-plus"></i></a>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-experience"> <img
+
+                src="assets/img/portfolio/ex5.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>My Experience</h4>
+                <p>Kanchanaphisek Nakhon Pathom School and Student Council
+                  organize "Wai Kru Days."</p>
+                <a href="assets/img/portfolio/ex5.jpg" data-gallery="portfolioGallery"
+
+                  class="portfolio-lightbox preview-link" title=""><i class="bx bx-plus"></i></a>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-experience"> <img
+
+                src="assets/img/portfolio/ex6.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>My Experience</h4>
+                <p>Volunteer Camp</p>
+                <a href="assets/img/portfolio/ex6.jpg" data-gallery="portfolioGallery"
+
+                  class="portfolio-lightbox preview-link" title=""><i class="bx bx-plus"></i></a>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-experience"> <img
+
+                src="assets/img/portfolio/ex7.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>My Experience</h4>
+                <p>Activities to build relationships with senior and junior</p>
+                <a href="assets/img/portfolio/ex7.jpg" data-gallery="portfolioGallery"
+
+                  class="portfolio-lightbox preview-link" title=""><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details.html" class="details-link" title="More Details"><i
+
+                    class="bx bx-link"></i></a> </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-experience"> <img
+
+                src="assets/img/portfolio/ex15.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>My Experience</h4>
+                <p>Charity Concert</p>
+                <a href="assets/img/portfolio/ex15.jpg" data-gallery="portfolioGallery"
+
+                  class="portfolio-lightbox preview-link" title=""><i class="bx bx-plus"></i></a>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-experience"> <img
+
+                src="assets/img/portfolio/ex9.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>My Experience</h4>
+                <p>School representatives compete in The 18th Kanchana Games</p>
+                <a href="assets/img/portfolio/ex9.jpg" data-gallery="portfolioGallery"
+
+                  class="portfolio-lightbox preview-link" title=""><i class="bx bx-plus"></i></a>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-experience"> <img
+
+                src="assets/img/portfolio/ex10.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>My Experience</h4>
+                <p>2018 New Years Concert</p>
+                <a href="assets/img/portfolio/ex10.jpg" data-gallery="portfolioGallery"
+
+                  class="portfolio-lightbox preview-link" title=""><i class="bx bx-plus"></i></a>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-experience"> <img
+
+                src="assets/img/portfolio/ex12.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>My Experience</h4>
+                <p>Receive a trophy of Honoring the performance of the President
+                  students and student council</p>
+                <a href="assets/img/portfolio/ex12.jpg" data-gallery="portfolioGallery"
+
+                  class="portfolio-lightbox preview-link" title=""><i class="bx bx-plus"></i></a>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-experience"> <img
+
+                src="assets/img/portfolio/ex14.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>My Experience</h4>
+                <p>2019 New Years Concert</p>
+                <a href="assets/img/portfolio/ex14.jpg" data-gallery="portfolioGallery"
+
+                  class="portfolio-lightbox preview-link" title=""><i class="bx bx-plus"></i></a>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-certificate"> <img
+
+                src="assets/img/portfolio/cer1.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Certificate</h4>
+                <p>A trophy of Honoring the performance of the President
+                  students and student council</p>
+                <a href="assets/img/portfolio/cer1.jpg" data-gallery="portfolioGallery"
+
+                  class="portfolio-lightbox preview-link" title=""><i class="bx bx-plus"></i></a>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-certificate"> <img
+
+                src="assets/img/portfolio/cer2.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Certificate</h4>
+                <p>Winning competition "Student Council Activities Grand Final"
+                  Awards</p>
+                <a href="assets/img/portfolio/cer2.jpg" data-gallery="portfolioGallery"
+
+                  class="portfolio-lightbox preview-link" title=""><i class="bx bx-plus"></i></a>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-certificate"> <img
+
+                src="assets/img/portfolio/cer4.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Certificate</h4>
+                <p>Honor certificate as an event organizer "Border Patrol Police
+                  School Volunteer Camp"</p>
+                <a href="assets/img/portfolio/cer4.jpg" data-gallery="portfolioGallery"
+
+                  class="portfolio-lightbox preview-link" title=""><i class="bx bx-plus"></i></a>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-certificate"> <img
+
+                src="assets/img/portfolio/cer3.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Certificate</h4>
+                <p>Honor certificate through the performance of duties in the
+                  position of Student Council President at an excellent level</p>
+                <a href="assets/img/portfolio/cer3.jpg" data-gallery="portfolioGallery"
+
+                  class="portfolio-lightbox preview-link" title=""><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details.html" class="details-link" title="More Details"><i
+
+                    class="bx bx-link"></i></a> </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-certificate"> <img
+
+                src="assets/img/portfolio/cer5.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Certificate</h4>
+                <p>The certificate has passed the "Academic Skills Development
+                  Camp for students in the Promotion Room of Excellence in
+                  Science, Mathematics, English and Technology"</p>
+                <a href="assets/img/portfolio/cer5.jpg" data-gallery="portfolioGallery"
+
+                  class="portfolio-lightbox preview-link" title=""><i class="bx bx-plus"></i></a>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-certificate"> <img
+
+                src="assets/img/portfolio/cer6.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Certificate</h4>
+                <p>Winning competition "Student Council Activities Final" Awards</p>
+                <a href="assets/img/portfolio/cer6.jpg" data-gallery="portfolioGallery"
+
+                  class="portfolio-lightbox preview-link" title=""><i class="bx bx-plus"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- End Portfolio Section -->
+      <!-- ======= Journal Section ======= -->
+      <div id="journal" class="text-left paddsection">
+        <div class="container">
+          <div class="section-title text-center">
+            <h2>journal</h2>
+          </div>
+        </div>
+        <div class="container">
+          <div class="journal-block">
+            <div class="row">
+              <div class="col-lg-4 col-md-6">
+                <div class="journal-info"> <a href="blog-single.html"><img src="assets/img/jo5.jpg"
+
+                      class="img-responsive" alt="img"></a>
+                  <div class="journal-txt">
+                    <h4><a href="blog-single.html">WHAT WILL YOU GET FROM ME?</a></h4>
+                    <p class="separator"></p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-6">
+                <div class="journal-info"> <a href="blog-single.html"><img src="assets/img/jo2.jpg"
+
+                      class="img-responsive" alt="img"></a>
+                  <div class="journal-txt">
+                    <h4><a href="blog-single.html">WE SHOULD GO OUT AND LIVE
+                        LIFE TO THE FULLEST.</a></h4>
+                    <p class="separator"></p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-6">
+                <div class="journal-info"> <a href="blog-single.html"><img src="assets/img/jo3.jpg"
+
+                      class="img-responsive" alt="img"></a>
+                  <div class="journal-txt">
+                    <h4><a href="blog-single.html">RELXATION IS THE WAY TO GO</a></h4>
+                    <p class="separator"></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- End Journal Section -->
+      <!-- ======= Contact Section ======= -->
+      <div id="contact" class="paddsection">
+        <div class="container">
+          <div class="contact-block1">
+            <div class="row">
+              <div class="col-lg-6">
+                <div class="contact-contact">
+                  <h2 class="mb-30">GET IN TOUCH</h2>
+                  <ul class="contact-details">
+                    <li><span>50 Salaya-Bangpasri R.</span></li>
+                    <li><span>Phutthamonthon, Nakhon Pathom, Thailand</span></li>
+                    <li><span>+66 948504008</span></li>
+                    <li><span>plernpraphaporn_p@silpakorn.edu</span></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-lg-6">
+                <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+                  <div class="row gy-3">
+                    <div class="col-lg-6">
+                      <div class="form-group contact-block1"> <input name="name"
+
+                          class="form-control" id="name" placeholder="Your Name"
+
+                          required="" type="text"> </div>
+                    </div>
+                    <div class="col-lg-6">
+                      <div class="form-group"> <input class="form-control" name="email"
+
+                          id="email" placeholder="Your Email" required="" type="email">
+                      </div>
+                    </div>
+                    <div class="col-lg-12">
+                      <div class="form-group"> <input class="form-control" name="subject"
+
+                          id="subject" placeholder="Subject" required="" type="text">
+                      </div>
+                    </div>
+                    <div class="col-lg-12">
+                      <div class="form-group"> <textarea class="form-control" name="message"
+
+placeholder="Message" required=""></textarea> </div>
+                    </div>
+                    <div class="col-lg-12">
+                      <div class="loading">Loading</div>
+                      <div class="error-message"></div>
+                      <div class="sent-message">Your message has been sent.
+                        Thank you!</div>
+                    </div>
+                    <div class="mt-0"> <input class="btn btn-defeault btn-send"
+
+value="Send message" type="submit"> </div>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- End Contact Section --> </main>
+    <!-- End #main -->
+    <!-- ======= Footer ======= -->
+    <div id="footer" class="text-center">
+      <div class="container">
+        <div class="socials-media text-center">
+          <ul class="list-unstyled">
+            <li><a href="https://www.facebook.com/profile.php?id=100011643456912"
+
+                target="_blank"><i class="bi bi-facebook"></i></a><br>
+            </li>
+            <li><a href="https://www.instagram.com/_artttttttttttttttttttt/" target="_blank"><i
+
+                  class="bi bi-instagram"></i></a><br>
+            </li>
+          </ul>
+        </div>
+        <p>© Copyrights Folio. All rights reserved.</p>
+        <div class="credits">
+          <!--
+        All the links in the footer should remain intact.        You can delete the links only if you purchased the pro version.        Licensing information: https://bootstrapmade.com/license/        Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Folio      -->
+          Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> </div>
+      </div>
+    </div>
+    <!-- End Footer -->
+    <!-- Vendor JS Files -->
+    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="assets/vendor/typed.js/typed.min.js"></script>
+    <script src="assets/vendor/php-email-form/validate.js"></script>
+    <!-- Template Main JS File -->
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>
